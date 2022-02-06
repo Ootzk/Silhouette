@@ -1,5 +1,8 @@
 # Silhouette
 
+## Notice
+Please access [old repository](https://github.com/Ootzk/Section_based_Quantization) until code-cleaning and project handover is ready...
+
 ## Overview
 ![Overview](https://user-images.githubusercontent.com/30234176/145958278-ad3e777e-9a3a-4336-a86b-5adf5f59b736.PNG)  
 Above figure shows the overview of project.  
